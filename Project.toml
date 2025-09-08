@@ -1,0 +1,10 @@
+name = "MyMakieTheme"
+uuid = "924556cd-4aa6-4e6c-989b-b818ac6d60b5"
+authors = ["Brian C. Ferrari <48806333+Cavenfish@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+
+[compat]
+CairoMakie = "0.15.6"
